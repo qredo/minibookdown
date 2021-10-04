@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Version 2"
+author: "Brian Spector"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
